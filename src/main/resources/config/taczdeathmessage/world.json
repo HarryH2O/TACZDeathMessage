@@ -1,0 +1,13 @@
+{
+  "worlds": {
+    "minecraft:overworld": {
+      "enabled": true,
+      "enableAnimals": true,
+      "messages": {
+        "player": {
+          "normal": "[主世界] {killer} 淘汰了 {victim}"
+        }
+      }
+    }
+  }
+}

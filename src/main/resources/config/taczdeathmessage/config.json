@@ -1,0 +1,33 @@
+{
+  "messages": {
+    "player": {
+      "normal": "{killer} 用 {gun} 击毙了 {victim}",
+      "headshot": "{killer} 用 {gun} 精准击毙了 {victim}"
+    },
+    "animal": {
+      "normal": "{killer} 狩猎了 {victim}（{gun}）",
+      "headshot": "{killer} 精准猎杀了 {victim}（{gun}）"
+    },
+    "monster": {
+      "normal": "{killer} 消灭了 {victim}（{gun}）",
+      "headshot": ""
+    },
+    "headshotSuffix": "✨",
+    "postCommands": [
+      {
+        "identity": "op",
+        "command": ""
+      },
+      {
+        "identity": "console",
+        "command": ""
+      },
+      {
+        "command": ""
+      }
+    ]
+  },
+  "defaultWorldEnabled": true,
+  "enableAnimalMessages": false,
+  "enableMonsterMessages": false
+}
